@@ -1,0 +1,303 @@
+Make,Duty,Vehicle Type
+FORD,"Heavy Duty (GVWR>10,000 lbs)",1. FORD - Single Unit Short-haul Truck
+CHEVROLET,"Heavy Duty (GVWR>10,000 lbs)",2. CHEVROLET - Single Unit Short-haul Truck
+GMC,"Heavy Duty (GVWR>10,000 lbs)",3. GMC - Single Unit Short-haul Truck
+DODGE,"Heavy Duty (GVWR>10,000 lbs)",4. DODGE - Single Unit Short-haul Truck
+INTERNATIONAL,"Heavy Duty (GVWR>10,000 lbs)",5. INTERNATIONAL - Single Unit Long-haul Truck
+AUTOCAR,"Heavy Duty (GVWR>10,000 lbs)",6. AUTOCAR - Refuse Truck
+FREIGHTLINER,"Heavy Duty (GVWR>10,000 lbs)",7. FREIGHTLINER - Combination Long-haul Truck
+KENWORTH,"Heavy Duty (GVWR>10,000 lbs)",8. KENWORTH - Combination Long-haul Truck
+MACK,"Heavy Duty (GVWR>10,000 lbs)",9. MACK - Refuse Truck
+MERCEDES-BENZ,"Heavy Duty (GVWR>10,000 lbs)",10. MERCEDES-BENZ - Single Unit Long-haul Truck
+MOTOR COACH INDUSTRIES,"Heavy Duty (GVWR>10,000 lbs)",11. MOTOR COACH INDUSTRIES - Motor Home
+PETERBILT,"Heavy Duty (GVWR>10,000 lbs)",12. PETERBILT - Combination Long-haul Truck
+PREVOST,"Heavy Duty (GVWR>10,000 lbs)",13. PREVOST - Motor Home
+TRANSPORTATION MFG CORP.,"Heavy Duty (GVWR>10,000 lbs)",14. TRANSPORTATION MFG CORP. - School Bus
+WESTERN STAR,"Heavy Duty (GVWR>10,000 lbs)",15. WESTERN STAR - Combination Long-haul Truck
+WHITE,"Heavy Duty (GVWR>10,000 lbs)",16. WHITE - Refuse Truck
+BLUE BIRD,"Heavy Duty (GVWR>10,000 lbs)",17. BLUE BIRD - School Bus
+EAGLE TRANSIT BUSES,"Heavy Duty (GVWR>10,000 lbs)",18. EAGLE TRANSIT BUSES - Other Buses
+HENDRICKSON,"Heavy Duty (GVWR>10,000 lbs)",19. HENDRICKSON - Single Unit Long-haul Truck
+OSHKOSH MOTOR TRUCK CO.,"Heavy Duty (GVWR>10,000 lbs)",20. OSHKOSH MOTOR TRUCK CO. - Single Unit Long-haul Truck
+VOLVO,"Heavy Duty (GVWR>10,000 lbs)",21. VOLVO - Combination Long-haul Truck
+HINO,"Heavy Duty (GVWR>10,000 lbs)",22. HINO - Single Unit Short-haul Truck
+MARMON HERRINGTON,"Heavy Duty (GVWR>10,000 lbs)",23. MARMON HERRINGTON - Single Unit Short-haul Truck
+GILLIG,"Heavy Duty (GVWR>10,000 lbs)",24. GILLIG - Transit Bus
+ISUZU,"Heavy Duty (GVWR>10,000 lbs)",25. ISUZU - Single Unit Short-haul Truck
+IVECO,"Heavy Duty (GVWR>10,000 lbs)",26. IVECO - Single Unit Long-haul Truck
+SEAGRAVE FIRE APPARATUS,"Heavy Duty (GVWR>10,000 lbs)",27. SEAGRAVE FIRE APPARATUS - Other Buses
+ROADMASTER RAIL,"Heavy Duty (GVWR>10,000 lbs)",28. ROADMASTER RAIL - Combination Long-haul Truck
+UD TRUCKS,"Heavy Duty (GVWR>10,000 lbs)",29. UD TRUCKS - Single Unit Short-haul Truck
+CRANE CARRIER,"Heavy Duty (GVWR>10,000 lbs)",30. CRANE CARRIER - Refuse Truck
+GIANT,"Heavy Duty (GVWR>10,000 lbs)",31. GIANT - Single Unit Long-haul Truck
+JOHN DEERE,"Heavy Duty (GVWR>10,000 lbs)",32. JOHN DEERE - Other Buses
+MITSUBISHI FUSO TRUCK OF AMERICA INC,"Heavy Duty (GVWR>10,000 lbs)",33. MITSUBISHI FUSO TRUCK OF AMERICA INC - Single Unit Short-haul Truck
+CHANCE COACH TRANSIT BUS,"Heavy Duty (GVWR>10,000 lbs)",34. CHANCE COACH TRANSIT BUS - Transit Bus
+FEDERAL MOTORS,"Heavy Duty (GVWR>10,000 lbs)",35. FEDERAL MOTORS - Other Buses
+PIERCE MFG. INC.,"Heavy Duty (GVWR>10,000 lbs)",36. PIERCE MFG. INC. - Other Buses
+SPARTAN MOTORS,"Heavy Duty (GVWR>10,000 lbs)",37. SPARTAN MOTORS - Motor Home
+SUTPHEN CORP.,"Heavy Duty (GVWR>10,000 lbs)",38. SUTPHEN CORP. - Other Buses
+WHITE/GMC,"Heavy Duty (GVWR>10,000 lbs)",39. WHITE/GMC - Single Unit Long-haul Truck
+ADVANCE MIXER,"Heavy Duty (GVWR>10,000 lbs)",40. ADVANCE MIXER - Other Buses
+DUPLEX,"Heavy Duty (GVWR>10,000 lbs)",41. DUPLEX - Refuse Truck
+CROWN COACH,"Heavy Duty (GVWR>10,000 lbs)",42. CROWN COACH - School Bus
+KOVATCH,"Heavy Duty (GVWR>10,000 lbs)",43. KOVATCH - Refuse Truck
+OTTAWA,"Heavy Duty (GVWR>10,000 lbs)",44. OTTAWA - Single Unit Short-haul Truck
+THOMAS,"Heavy Duty (GVWR>10,000 lbs)",45. THOMAS - School Bus
+WINNEBAGO,"Heavy Duty (GVWR>10,000 lbs)",46. WINNEBAGO - Motor Home
+EMERGENCY ONE,"Heavy Duty (GVWR>10,000 lbs)",47. EMERGENCY ONE - Other Buses
+GENESIS TRANSIT BUSES,"Heavy Duty (GVWR>10,000 lbs)",48. GENESIS TRANSIT BUSES - Transit Bus
+FLXIBLE TRANSIT BUS,"Heavy Duty (GVWR>10,000 lbs)",49. FLXIBLE TRANSIT BUS - Transit Bus
+HUMMER,"Heavy Duty (GVWR>10,000 lbs)",50. HUMMER - Motor Home
+VAN HOOL,"Heavy Duty (GVWR>10,000 lbs)",51. VAN HOOL - Transit Bus
+EVOBUS,"Heavy Duty (GVWR>10,000 lbs)",52. EVOBUS - Other Buses
+EL DORADO,"Heavy Duty (GVWR>10,000 lbs)",53. EL DORADO - Transit Bus
+NEW FLYER,"Heavy Duty (GVWR>10,000 lbs)",54. NEW FLYER - Transit Bus
+AMERICAN LA FRANCE,"Heavy Duty (GVWR>10,000 lbs)",55. AMERICAN LA FRANCE - Other Buses
+ORION BUS,"Heavy Duty (GVWR>10,000 lbs)",56. ORION BUS - Transit Bus
+BERING,"Heavy Duty (GVWR>10,000 lbs)",57. BERING - Single Unit Short-haul Truck
+NOVA BUS CORPORATION,"Heavy Duty (GVWR>10,000 lbs)",58. NOVA BUS CORPORATION - Transit Bus
+STERLING TRUCK,"Heavy Duty (GVWR>10,000 lbs)",59. STERLING TRUCK - Single Unit Short-haul Truck
+WORKHORSE CUSTOM CHASSIS,"Heavy Duty (GVWR>10,000 lbs)",60. WORKHORSE CUSTOM CHASSIS - Motor Home
+COUNTRY COACH MOTORHOME,"Heavy Duty (GVWR>10,000 lbs)",61. COUNTRY COACH MOTORHOME - Motor Home
+CAPACITY OF TEXAS,"Heavy Duty (GVWR>10,000 lbs)",62. CAPACITY OF TEXAS - Single Unit Short-haul Truck
+FORETRAVEL MOTORHOME,"Heavy Duty (GVWR>10,000 lbs)",63. FORETRAVEL MOTORHOME - Motor Home
+IC CORPORATION,"Heavy Duty (GVWR>10,000 lbs)",64. IC CORPORATION - School Bus
+WESTERN RV,"Heavy Duty (GVWR>10,000 lbs)",65. WESTERN RV - Motor Home
+AUTOCAR LLC,"Heavy Duty (GVWR>10,000 lbs)",66. AUTOCAR LLC - Refuse Truck
+LODAL,"Heavy Duty (GVWR>10,000 lbs)",67. LODAL - Refuse Truck
+UNIMOG,"Heavy Duty (GVWR>10,000 lbs)",68. UNIMOG - Single Unit Long-haul Truck
+FERRARA FIRE APPARATUS,"Heavy Duty (GVWR>10,000 lbs)",69. FERRARA FIRE APPARATUS - Other Buses
+SPRINTER,"Heavy Duty (GVWR>10,000 lbs)",70. SPRINTER - Single Unit Short-haul Truck
+KALMAR,"Heavy Duty (GVWR>10,000 lbs)",71. KALMAR - Single Unit Short-haul Truck
+BUS & COACH INTL (BCI),"Heavy Duty (GVWR>10,000 lbs)",72. BUS & COACH INTL (BCI) - Transit Bus
+INDIANA PHOENIX,"Heavy Duty (GVWR>10,000 lbs)",73. INDIANA PHOENIX - Other Buses
+TEREX / TEREX ADVANCE,"Heavy Duty (GVWR>10,000 lbs)",74. TEREX / TEREX ADVANCE - Other Buses
+TIFFIN MOTORHOMES INC,"Heavy Duty (GVWR>10,000 lbs)",75. TIFFIN MOTORHOMES INC - Motor Home
+TEMSA BUS,"Heavy Duty (GVWR>10,000 lbs)",76. TEMSA BUS - Transit Bus
+TERMINAL INVESTMENT CORP,"Heavy Duty (GVWR>10,000 lbs)",77. TERMINAL INVESTMENT CORP - Single Unit Short-haul Truck
+CATERPILLAR,"Heavy Duty (GVWR>10,000 lbs)",78. CATERPILLAR - Other Buses
+ALEXANDER DENNIS,"Heavy Duty (GVWR>10,000 lbs)",79. ALEXANDER DENNIS - Transit Bus
+RAM,"Heavy Duty (GVWR>10,000 lbs)",80. RAM - Single Unit Short-haul Truck
+ROSENBAUER AMERICA,"Heavy Duty (GVWR>10,000 lbs)",81. ROSENBAUER AMERICA - Other Buses
+BYD COACH AND BUS LLC,"Heavy Duty (GVWR>10,000 lbs)",82. BYD COACH AND BUS LLC - Transit Bus
+GRANDE WEST,"Heavy Duty (GVWR>10,000 lbs)",83. GRANDE WEST - Transit Bus
+PROTERRA,"Heavy Duty (GVWR>10,000 lbs)",84. PROTERRA - Transit Bus
+DENNIS EAGLE,"Heavy Duty (GVWR>10,000 lbs)",85. DENNIS EAGLE - Refuse Truck
+ORANGE EV,"Heavy Duty (GVWR>10,000 lbs)",86. ORANGE EV - Single Unit Short-haul Truck
+XOS,"Heavy Duty (GVWR>10,000 lbs)",87. XOS - Single Unit Short-haul Truck
+AMERICAN MOTORS,"Light Duty (10,000 lbs GVWR or less)",88. AMERICAN MOTORS - Passenger Car
+BUICK,"Light Duty (10,000 lbs GVWR or less)",89. BUICK - Passenger Car
+CADILLAC,"Light Duty (10,000 lbs GVWR or less)",90. CADILLAC - Passenger Car
+CHEVROLET,"Light Duty (10,000 lbs GVWR or less)",91. CHEVROLET - Passenger Car
+CHRYSLER,"Light Duty (10,000 lbs GVWR or less)",92. CHRYSLER - Passenger Car
+DODGE,"Light Duty (10,000 lbs GVWR or less)",93. DODGE - Passenger Car
+FORD,"Light Duty (10,000 lbs GVWR or less)",94. FORD - Passenger Car
+INTERNATIONAL,"Light Duty (10,000 lbs GVWR or less)",95. INTERNATIONAL - Light Commercial Truck
+JEEP,"Light Duty (10,000 lbs GVWR or less)",96. JEEP - Passenger Truck
+LINCOLN,"Light Duty (10,000 lbs GVWR or less)",97. LINCOLN - Passenger Car
+MERCURY,"Light Duty (10,000 lbs GVWR or less)",98. MERCURY - Passenger Car
+OLDSMOBILE,"Light Duty (10,000 lbs GVWR or less)",99. OLDSMOBILE - Passenger Car
+PLYMOUTH,"Light Duty (10,000 lbs GVWR or less)",100. PLYMOUTH - Passenger Car
+PONTIAC,"Light Duty (10,000 lbs GVWR or less)",101. PONTIAC - Passenger Car
+VOLKSWAGEN,"Light Duty (10,000 lbs GVWR or less)",102. VOLKSWAGEN - Passenger Car
+GMC,"Light Duty (10,000 lbs GVWR or less)",103. GMC - Light Commercial Truck
+VOLVO,"Light Duty (10,000 lbs GVWR or less)",104. VOLVO - Passenger Car
+BMW,"Light Duty (10,000 lbs GVWR or less)",105. BMW - Passenger Car
+DATSUN,"Light Duty (10,000 lbs GVWR or less)",106. DATSUN - Passenger Car
+HONDA,"Light Duty (10,000 lbs GVWR or less)",107. HONDA - Passenger Car
+KAWASAKI,"Light Duty (10,000 lbs GVWR or less)",108. KAWASAKI - Motorcycle
+OPEL,"Light Duty (10,000 lbs GVWR or less)",109. OPEL - Passenger Car
+TOYOTA,"Light Duty (10,000 lbs GVWR or less)",110. TOYOTA - Passenger Car
+YAMAHA,"Light Duty (10,000 lbs GVWR or less)",111. YAMAHA - Motorcycle
+FIAT,"Light Duty (10,000 lbs GVWR or less)",112. FIAT - Passenger Car
+JAGUAR,"Light Duty (10,000 lbs GVWR or less)",113. JAGUAR - Passenger Car
+MERCEDES-BENZ,"Light Duty (10,000 lbs GVWR or less)",114. MERCEDES-BENZ - Passenger Car
+PORSCHE,"Light Duty (10,000 lbs GVWR or less)",115. PORSCHE - Passenger Car
+SUZUKI,"Light Duty (10,000 lbs GVWR or less)",116. SUZUKI - Motorcycle
+MG,"Light Duty (10,000 lbs GVWR or less)",117. MG - Passenger Car
+SUBARU,"Light Duty (10,000 lbs GVWR or less)",118. SUBARU - Passenger Car
+AUDI,"Light Duty (10,000 lbs GVWR or less)",119. AUDI - Passenger Car
+HARLEY-DAVIDSON,"Light Duty (10,000 lbs GVWR or less)",120. HARLEY-DAVIDSON - Motorcycle
+SAAB,"Light Duty (10,000 lbs GVWR or less)",121. SAAB - Passenger Car
+TRIUMPH MOTORCYCLE,"Light Duty (10,000 lbs GVWR or less)",122. TRIUMPH MOTORCYCLE - Motorcycle
+JENSEN,"Light Duty (10,000 lbs GVWR or less)",123. JENSEN - Passenger Car
+MAZDA,"Light Duty (10,000 lbs GVWR or less)",124. MAZDA - Passenger Car
+CAPRI,"Light Duty (10,000 lbs GVWR or less)",125. CAPRI - Passenger Car
+TRIUMPH CAR,"Light Duty (10,000 lbs GVWR or less)",126. TRIUMPH CAR - Passenger Car
+LANCIA,"Light Duty (10,000 lbs GVWR or less)",127. LANCIA - Passenger Car
+ALFA ROMEO,"Light Duty (10,000 lbs GVWR or less)",128. ALFA ROMEO - Passenger Car
+FERRARI,"Light Duty (10,000 lbs GVWR or less)",129. FERRARI - Passenger Car
+ISUZU,"Light Duty (10,000 lbs GVWR or less)",130. ISUZU - Light Commercial Truck
+RENAULT,"Light Duty (10,000 lbs GVWR or less)",131. RENAULT - Passenger Car
+ROLLS-ROYCE,"Light Duty (10,000 lbs GVWR or less)",132. ROLLS-ROYCE - Passenger Car
+UNDEFINED,"Light Duty (10,000 lbs GVWR or less)",133. UNDEFINED - Passenger Car
+UNKNOWN,"Light Duty (10,000 lbs GVWR or less)",134. UNKNOWN - Passenger Car
+VESPA,"Light Duty (10,000 lbs GVWR or less)",135. VESPA - Motorcycle
+WANGYE,"Light Duty (10,000 lbs GVWR or less)",136. WANGYE - Motorcycle
+KYMCO USA INC,"Light Duty (10,000 lbs GVWR or less)",137. KYMCO USA INC - Motorcycle
+LEIKE MACHINE INDUSTRY CO. LIMITED,"Light Duty (10,000 lbs GVWR or less)",138. LEIKE MACHINE INDUSTRY CO. LIMITED - Motorcycle
+LOTUS,"Light Duty (10,000 lbs GVWR or less)",139. LOTUS - Passenger Car
+MITSUBISHI,"Light Duty (10,000 lbs GVWR or less)",140. MITSUBISHI - Passenger Car
+BAJAJ,"Light Duty (10,000 lbs GVWR or less)",141. BAJAJ - Motorcycle
+MASERATI,"Light Duty (10,000 lbs GVWR or less)",142. MASERATI - Passenger Car
+PEUGEOT,"Light Duty (10,000 lbs GVWR or less)",143. PEUGEOT - Passenger Car
+WINNEBAGO,"Light Duty (10,000 lbs GVWR or less)",144. WINNEBAGO - Light Commercial Truck
+BENTLEY,"Light Duty (10,000 lbs GVWR or less)",145. BENTLEY - Passenger Car
+JOHNNY PAG MOTOR COMPANY,"Light Duty (10,000 lbs GVWR or less)",146. JOHNNY PAG MOTOR COMPANY - Motorcycle
+LML,"Light Duty (10,000 lbs GVWR or less)",147. LML - Motorcycle
+MERKUR,"Light Duty (10,000 lbs GVWR or less)",148. MERKUR - Passenger Car
+NISSAN,"Light Duty (10,000 lbs GVWR or less)",149. NISSAN - Passenger Car
+QIANJIANG,"Light Duty (10,000 lbs GVWR or less)",150. QIANJIANG - Motorcycle
+ZERO MOTORCYCLES INC,"Light Duty (10,000 lbs GVWR or less)",151. ZERO MOTORCYCLES INC - Motorcycle
+ACURA,"Light Duty (10,000 lbs GVWR or less)",152. ACURA - Passenger Car
+DUCATI,"Light Duty (10,000 lbs GVWR or less)",153. DUCATI - Motorcycle
+FOSTI,"Light Duty (10,000 lbs GVWR or less)",154. FOSTI - Motorcycle
+RHON MOTORCYCLE,"Light Duty (10,000 lbs GVWR or less)",155. RHON MOTORCYCLE - Motorcycle
+TVR,"Light Duty (10,000 lbs GVWR or less)",156. TVR - Passenger Car
+YUGO,"Light Duty (10,000 lbs GVWR or less)",157. YUGO - Passenger Car
+ZHIWEI MOTORS,"Light Duty (10,000 lbs GVWR or less)",158. ZHIWEI MOTORS - Motorcycle
+HYUNDAI,"Light Duty (10,000 lbs GVWR or less)",159. HYUNDAI - Passenger Car
+JINCHENG CO,"Light Duty (10,000 lbs GVWR or less)",160. JINCHENG CO - Motorcycle
+LAND ROVER,"Light Duty (10,000 lbs GVWR or less)",161. LAND ROVER - Passenger Truck
+DAIHATSU,"Light Duty (10,000 lbs GVWR or less)",162. DAIHATSU - Passenger Car
+EAGLE,"Light Duty (10,000 lbs GVWR or less)",163. EAGLE - Passenger Car
+INDEPENDENCE MOTORCYCLE,"Light Duty (10,000 lbs GVWR or less)",164. INDEPENDENCE MOTORCYCLE - Motorcycle
+LAMBORGHINI,"Light Duty (10,000 lbs GVWR or less)",165. LAMBORGHINI - Passenger Car
+BOOM TRIKES,"Light Duty (10,000 lbs GVWR or less)",166. BOOM TRIKES - Motorcycle
+GEO,"Light Duty (10,000 lbs GVWR or less)",167. GEO - Passenger Car
+UTILIMASTER,"Light Duty (10,000 lbs GVWR or less)",168. UTILIMASTER - Light Commercial Truck
+CF MOTO,"Light Duty (10,000 lbs GVWR or less)",169. CF MOTO - Motorcycle
+INFINITI,"Light Duty (10,000 lbs GVWR or less)",170. INFINITI - Passenger Car
+LEXUS,"Light Duty (10,000 lbs GVWR or less)",171. LEXUS - Passenger Car
+LINHAI,"Light Duty (10,000 lbs GVWR or less)",172. LINHAI - Motorcycle
+SHANGHAI XINGFU MOTORCYCLE WORKS,"Light Duty (10,000 lbs GVWR or less)",173. SHANGHAI XINGFU MOTORCYCLE WORKS - Motorcycle
+TUTU SCOOTER,"Light Duty (10,000 lbs GVWR or less)",174. TUTU SCOOTER - Motorcycle
+KTM,"Light Duty (10,000 lbs GVWR or less)",175. KTM - Motorcycle
+SATURN,"Light Duty (10,000 lbs GVWR or less)",176. SATURN - Passenger Car
+CLEVELAND T-TRIKE MANUFACTURING INC,"Light Duty (10,000 lbs GVWR or less)",177. CLEVELAND T-TRIKE MANUFACTURING INC - Motorcycle
+VECTRIX,"Light Duty (10,000 lbs GVWR or less)",178. VECTRIX - Motorcycle
+HUSQVARNA,"Light Duty (10,000 lbs GVWR or less)",179. HUSQVARNA - Motorcycle
+MOTO GUZZI,"Light Duty (10,000 lbs GVWR or less)",180. MOTO GUZZI - Motorcycle
+OSHKOSH MOTOR TRUCK CO.,"Light Duty (10,000 lbs GVWR or less)",181. OSHKOSH MOTOR TRUCK CO. - Light Commercial Truck
+ATK,"Light Duty (10,000 lbs GVWR or less)",182. ATK - Motorcycle
+HONLING MOTORCYCLE,"Light Duty (10,000 lbs GVWR or less)",183. HONLING MOTORCYCLE - Motorcycle
+MOTORRAD UND ZWEIRADWERK,"Light Duty (10,000 lbs GVWR or less)",184. MOTORRAD UND ZWEIRADWERK - Motorcycle
+BOSS HOSS CYCLE INC,"Light Duty (10,000 lbs GVWR or less)",185. BOSS HOSS CYCLE INC - Motorcycle
+BOURGET'S BIKE WORKS,"Light Duty (10,000 lbs GVWR or less)",186. BOURGET'S BIKE WORKS - Motorcycle
+BUELL,"Light Duty (10,000 lbs GVWR or less)",187. BUELL - Motorcycle
+KIA,"Light Duty (10,000 lbs GVWR or less)",188. KIA - Passenger Car
+ROYAL ENFIELD MOTORS,"Light Duty (10,000 lbs GVWR or less)",189. ROYAL ENFIELD MOTORS - Motorcycle
+FREIGHTLINER,"Light Duty (10,000 lbs GVWR or less)",190. FREIGHTLINER - Light Commercial Truck
+HUSABERG,"Light Duty (10,000 lbs GVWR or less)",191. HUSABERG - Motorcycle
+ASTON MARTIN,"Light Duty (10,000 lbs GVWR or less)",192. ASTON MARTIN - Passenger Car
+BIG DOG,"Light Duty (10,000 lbs GVWR or less)",193. BIG DOG - Motorcycle
+BIMOTA,"Light Duty (10,000 lbs GVWR or less)",194. BIMOTA - Motorcycle
+ITALJET,"Light Duty (10,000 lbs GVWR or less)",195. ITALJET - Motorcycle
+POLARIS,"Light Duty (10,000 lbs GVWR or less)",196. POLARIS - Motorcycle
+AMERICAN IRON HORSE,"Light Duty (10,000 lbs GVWR or less)",197. AMERICAN IRON HORSE - Motorcycle
+HAWAIIN CHARIOT WHEELCHAIR MOTORBIKES LLC,"Light Duty (10,000 lbs GVWR or less)",198. HAWAIIN CHARIOT WHEELCHAIR MOTORBIKES LLC - Motorcycle
+CAGIVA,"Light Duty (10,000 lbs GVWR or less)",199. CAGIVA - Motorcycle
+DAEWOO,"Light Duty (10,000 lbs GVWR or less)",200. DAEWOO - Passenger Car
+GLOBAL ELECTRIC MOTORS,"Light Duty (10,000 lbs GVWR or less)",201. GLOBAL ELECTRIC MOTORS - Light Commercial Truck
+INDIAN MOTORCYCLE CO.,"Light Duty (10,000 lbs GVWR or less)",202. INDIAN MOTORCYCLE CO. - Motorcycle
+VICTORY MOTORCYCLES,"Light Duty (10,000 lbs GVWR or less)",203. VICTORY MOTORCYCLES - Motorcycle
+WORKHORSE CUSTOM CHASSIS,"Light Duty (10,000 lbs GVWR or less)",204. WORKHORSE CUSTOM CHASSIS - Light Commercial Truck
+APRILIA,"Light Duty (10,000 lbs GVWR or less)",205. APRILIA - Motorcycle
+BMC MOTORCYCLE COMPANY,"Light Duty (10,000 lbs GVWR or less)",206. BMC MOTORCYCLE COMPANY - Motorcycle
+BOMBARDIER RECREATIONAL PRODUCTS INC.,"Light Duty (10,000 lbs GVWR or less)",207. BOMBARDIER RECREATIONAL PRODUCTS INC. - Motorcycle
+ETON,"Light Duty (10,000 lbs GVWR or less)",208. ETON - Motorcycle
+HYOSUNG,"Light Duty (10,000 lbs GVWR or less)",209. HYOSUNG - Motorcycle
+RIDLEY MOTORCYCLE COMPANY,"Light Duty (10,000 lbs GVWR or less)",210. RIDLEY MOTORCYCLE COMPANY - Motorcycle
+ADLY SCOOTERS,"Light Duty (10,000 lbs GVWR or less)",211. ADLY SCOOTERS - Motorcycle
+ARCTIC CAT,"Light Duty (10,000 lbs GVWR or less)",212. ARCTIC CAT - Motorcycle
+CMSI INC,"Light Duty (10,000 lbs GVWR or less)",213. CMSI INC - Motorcycle
+CPI MOTOR COMPANY,"Light Duty (10,000 lbs GVWR or less)",214. CPI MOTOR COMPANY - Motorcycle
+HUANAN GROUP CO. LTD,"Light Duty (10,000 lbs GVWR or less)",215. HUANAN GROUP CO. LTD - Motorcycle
+JIALING,"Light Duty (10,000 lbs GVWR or less)",216. JIALING - Motorcycle
+MINI,"Light Duty (10,000 lbs GVWR or less)",217. MINI - Passenger Car
+SUNHOU MOTORCYCLE,"Light Duty (10,000 lbs GVWR or less)",218. SUNHOU MOTORCYCLE - Motorcycle
+THUNDER MOUNTAIN CUSTOMS,"Light Duty (10,000 lbs GVWR or less)",219. THUNDER MOUNTAIN CUSTOMS - Motorcycle
+URAL,"Light Duty (10,000 lbs GVWR or less)",220. URAL - Motorcycle
+VENTO MOTORCYCLES USA,"Light Duty (10,000 lbs GVWR or less)",221. VENTO MOTORCYCLES USA - Motorcycle
+GAS GAS,"Light Duty (10,000 lbs GVWR or less)",222. GAS GAS - Motorcycle
+GENUINE SCOOTER CO.,"Light Duty (10,000 lbs GVWR or less)",223. GENUINE SCOOTER CO. - Motorcycle
+HUMMER,"Light Duty (10,000 lbs GVWR or less)",224. HUMMER - Passenger Truck
+PIAGGIO,"Light Duty (10,000 lbs GVWR or less)",225. PIAGGIO - Motorcycle
+SPRINTER,"Light Duty (10,000 lbs GVWR or less)",226. SPRINTER - Light Commercial Truck
+CHANGZHOU YAMASAKI MOTORCYCLE CO LTD,"Light Duty (10,000 lbs GVWR or less)",227. CHANGZHOU YAMASAKI MOTORCYCLE CO LTD - Motorcycle
+LIFAN INDUSTRY (GROUP) CO LTD,"Light Duty (10,000 lbs GVWR or less)",228. LIFAN INDUSTRY (GROUP) CO LTD - Motorcycle
+MAYBACH,"Light Duty (10,000 lbs GVWR or less)",229. MAYBACH - Passenger Car
+MEITIAN,"Light Duty (10,000 lbs GVWR or less)",230. MEITIAN - Motorcycle
+ZONGSHEN,"Light Duty (10,000 lbs GVWR or less)",231. ZONGSHEN - Motorcycle
+BUYANG,"Light Duty (10,000 lbs GVWR or less)",232. BUYANG - Motorcycle
+CHUANL,"Light Duty (10,000 lbs GVWR or less)",233. CHUANL - Motorcycle
+HENSIM,"Light Duty (10,000 lbs GVWR or less)",234. HENSIM - Motorcycle
+JOYNER,"Light Duty (10,000 lbs GVWR or less)",235. JOYNER - Motorcycle
+LANCE POWERSPORTS,"Light Duty (10,000 lbs GVWR or less)",236. LANCE POWERSPORTS - Motorcycle
+M. V. AGUSTA,"Light Duty (10,000 lbs GVWR or less)",237. M. V. AGUSTA - Motorcycle
+MEIDUO MOTOR,"Light Duty (10,000 lbs GVWR or less)",238. MEIDUO MOTOR - Motorcycle
+SHANGHAI JIANSHE MOTORCYCLE CO LTD,"Light Duty (10,000 lbs GVWR or less)",239. SHANGHAI JIANSHE MOTORCYCLE CO LTD - Motorcycle
+SMART,"Light Duty (10,000 lbs GVWR or less)",240. SMART - Passenger Car
+TGB,"Light Duty (10,000 lbs GVWR or less)",241. TGB - Motorcycle
+AVANTI,"Light Duty (10,000 lbs GVWR or less)",242. AVANTI - Passenger Car
+BIG BEAR CHOPPERS,"Light Duty (10,000 lbs GVWR or less)",243. BIG BEAR CHOPPERS - Motorcycle
+DAELIM MOTOR,"Light Duty (10,000 lbs GVWR or less)",244. DAELIM MOTOR - Motorcycle
+SYM,"Light Duty (10,000 lbs GVWR or less)",245. SYM - Motorcycle
+V8 CHOPPERS LLC,"Light Duty (10,000 lbs GVWR or less)",246. V8 CHOPPERS LLC - Motorcycle
+XINGYUE,"Light Duty (10,000 lbs GVWR or less)",247. XINGYUE - Motorcycle
+YIBEN,"Light Duty (10,000 lbs GVWR or less)",248. YIBEN - Motorcycle
+BENZHOU,"Light Duty (10,000 lbs GVWR or less)",249. BENZHOU - Motorcycle
+CAN-AM,"Light Duty (10,000 lbs GVWR or less)",250. CAN-AM - Motorcycle
+HISUN,"Light Duty (10,000 lbs GVWR or less)",251. HISUN - Motorcycle
+JMSTAR,"Light Duty (10,000 lbs GVWR or less)",252. JMSTAR - Motorcycle
+KANDI,"Light Duty (10,000 lbs GVWR or less)",253. KANDI - Motorcycle
+PEACE SPORTS,"Light Duty (10,000 lbs GVWR or less)",254. PEACE SPORTS - Motorcycle
+ROKETA,"Light Duty (10,000 lbs GVWR or less)",255. ROKETA - Motorcycle
+TAOTAO GROUP CO. LTD.,"Light Duty (10,000 lbs GVWR or less)",256. TAOTAO GROUP CO. LTD. - Motorcycle
+HUAWIN,"Light Duty (10,000 lbs GVWR or less)",257. HUAWIN - Motorcycle
+MIKILON MOTORS,"Light Duty (10,000 lbs GVWR or less)",258. MIKILON MOTORS - Motorcycle
+SENDA MOTORS,"Light Duty (10,000 lbs GVWR or less)",259. SENDA MOTORS - Motorcycle
+TESLA,"Light Duty (10,000 lbs GVWR or less)",260. TESLA - Passenger Car
+US TITAN,"Light Duty (10,000 lbs GVWR or less)",261. US TITAN - Motorcycle
+USA MOTORTOYS LLC,"Light Duty (10,000 lbs GVWR or less)",262. USA MOTORTOYS LLC - Motorcycle
+XIASHING,"Light Duty (10,000 lbs GVWR or less)",263. XIASHING - Motorcycle
+JAILHOUSE CHOPPERS,"Light Duty (10,000 lbs GVWR or less)",264. JAILHOUSE CHOPPERS - Motorcycle
+NINGBO DONGFANG LINGYUN VEHICLE,"Light Duty (10,000 lbs GVWR or less)",265. NINGBO DONGFANG LINGYUN VEHICLE - Motorcycle
+SANDI,"Light Duty (10,000 lbs GVWR or less)",266. SANDI - Motorcycle
+ZHEJIANG SHENMAO APPLIANCE CO LTD,"Light Duty (10,000 lbs GVWR or less)",267. ZHEJIANG SHENMAO APPLIANCE CO LTD - Motorcycle
+ZHENHUA,"Light Duty (10,000 lbs GVWR or less)",268. ZHENHUA - Motorcycle
+SHANGHAI HOWHIT MACHINERY,"Light Duty (10,000 lbs GVWR or less)",269. SHANGHAI HOWHIT MACHINERY - Motorcycle
+BASHAN,"Light Duty (10,000 lbs GVWR or less)",270. BASHAN - Motorcycle
+KINGRING,"Light Duty (10,000 lbs GVWR or less)",271. KINGRING - Motorcycle
+AZURE DYNAMICS,"Light Duty (10,000 lbs GVWR or less)",272. AZURE DYNAMICS - Light Commercial Truck
+FISKER AUTOMOTIVE,"Light Duty (10,000 lbs GVWR or less)",273. FISKER AUTOMOTIVE - Passenger Car
+GUANGDONG QINGXIN LIANTONG,"Light Duty (10,000 lbs GVWR or less)",274. GUANGDONG QINGXIN LIANTONG - Motorcycle
+MCLAREN AUTOMOTIVE,"Light Duty (10,000 lbs GVWR or less)",275. MCLAREN AUTOMOTIVE - Passenger Car
+SKYTEAM,"Light Duty (10,000 lbs GVWR or less)",276. SKYTEAM - Motorcycle
+CALIFORNIA SCOOTER CO,"Light Duty (10,000 lbs GVWR or less)",277. CALIFORNIA SCOOTER CO - Motorcycle
+HARDCORE CHOPPERS,"Light Duty (10,000 lbs GVWR or less)",278. HARDCORE CHOPPERS - Motorcycle
+NORTON MOTORCYCLES,"Light Duty (10,000 lbs GVWR or less)",279. NORTON MOTORCYCLES - Motorcycle
+RAM,"Light Duty (10,000 lbs GVWR or less)",280. RAM - Light Commercial Truck
+SHANDONG LIANGZI POWER CO,"Light Duty (10,000 lbs GVWR or less)",281. SHANDONG LIANGZI POWER CO - Motorcycle
+ZHEJIANG EASY VEHICLE,"Light Duty (10,000 lbs GVWR or less)",282. ZHEJIANG EASY VEHICLE - Motorcycle
+JIAJUE,"Light Duty (10,000 lbs GVWR or less)",283. JIAJUE - Motorcycle
+QIYE,"Light Duty (10,000 lbs GVWR or less)",284. QIYE - Motorcycle
+ROKON,"Light Duty (10,000 lbs GVWR or less)",285. ROKON - Motorcycle
+BAODIAO MOTORCYCLE,"Light Duty (10,000 lbs GVWR or less)",286. BAODIAO MOTORCYCLE - Motorcycle
+GENESIS,"Light Duty (10,000 lbs GVWR or less)",287. GENESIS - Passenger Car
+LONGJIA,"Light Duty (10,000 lbs GVWR or less)",288. LONGJIA - Motorcycle
+VANDERHALL,"Light Duty (10,000 lbs GVWR or less)",289. VANDERHALL - Motorcycle
+APOLLO VEHICLE,"Light Duty (10,000 lbs GVWR or less)",290. APOLLO VEHICLE - Motorcycle
+ELECTRA MECCANICA VEHICLES CORPORATION,"Light Duty (10,000 lbs GVWR or less)",291. ELECTRA MECCANICA VEHICLES CORPORATION - Passenger Car
+KARMA AUTOMOTIVE LLC,"Light Duty (10,000 lbs GVWR or less)",292. KARMA AUTOMOTIVE LLC - Passenger Car
+CHARMING MOTORCYCLE MFG CO LTD,"Light Duty (10,000 lbs GVWR or less)",293. CHARMING MOTORCYCLE MFG CO LTD - Motorcycle
+ENERGICA,"Light Duty (10,000 lbs GVWR or less)",294. ENERGICA - Motorcycle
+POLESTAR,"Light Duty (10,000 lbs GVWR or less)",295. POLESTAR - Passenger Car
+SHINERAY,"Light Duty (10,000 lbs GVWR or less)",296. SHINERAY - Motorcycle
+LIVEWIRE,"Light Duty (10,000 lbs GVWR or less)",297. LIVEWIRE - Motorcycle
+XOS,"Light Duty (10,000 lbs GVWR or less)",298. XOS - Light Commercial Truck
+ARCIMOTO,"Light Duty (10,000 lbs GVWR or less)",299. ARCIMOTO - Motorcycle
+BUGATTI,"Light Duty (10,000 lbs GVWR or less)",300. BUGATTI - Passenger Car
+LUCID MOTORS,"Light Duty (10,000 lbs GVWR or less)",301. LUCID MOTORS - Passenger Car
+RIVIAN,"Light Duty (10,000 lbs GVWR or less)",302. RIVIAN - Light Commercial Truck

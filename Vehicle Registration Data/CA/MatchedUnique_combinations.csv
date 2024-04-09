@@ -1,0 +1,130 @@
+Make,Duty,Vehicle Type
+FORD,Light,Passenger Truck
+PLYMOUTH,Light,Passenger Car
+CHEVROLET,Light,Passenger Car
+WHITE,Heavy,Combination Long-haul Truck
+GMC,Light,Passenger Car
+INFINITI,Light,Passenger Car
+MERCEDES-BENZ,Light,Passenger Car
+VOLKSWAGEN,Light,Passenger Car
+DODGE,Light,Passenger Car
+JEEP,Light,Passenger Truck
+ACURA,Light,Passenger Car
+HONDA,Light,Passenger Car
+CHRYSLER,Light,Passenger Car
+CADILLAC,Light,Passenger Car
+NISSAN,Light,Passenger Car
+TOYOTA,Light,Passenger Car
+MAZDA,Light,Passenger Car
+BMW,Light,Passenger Car
+HYUNDAI,Light,Passenger Car
+LEXUS,Light,Passenger Car
+KIA,Light,Passenger Car
+SCION,Light,Passenger Car
+PONTIAC,Light,Passenger Car
+FREIGHTLINER,Heavy,Combination Long-haul Truck
+RAM,Light,Passenger Truck
+AUDI,Light,Passenger Car
+MINI,Light,Passenger Car
+HINO,Heavy,Combination Short-haul Truck
+MITSUBISHI,Light,Passenger Car
+INTERNATIONAL,Heavy,Combination Long-haul Truck
+SUBARU,Light,Passenger Car
+BUICK,Light,Passenger Car
+TESLA,Light,Passenger Car
+FORD,Heavy,Transit Bus
+GMC,Heavy,Refuse Truck
+CHEVROLET,Heavy,Combination Short-haul Truck
+MERCURY,Light,Passenger Car
+LINCOLN,Light,Passenger Car
+VOLVO,Light,Passenger Car
+HUMMER,Light,Passenger Truck
+OLDSMOBILE,Light,Passenger Car
+SATURN,Light,Passenger Car
+ISUZU,Heavy,Single Unit Short-haul Truck
+ISUZU,Light,Light Commertial Truck
+SUZUKI,Light,Passenger Car
+LAND ROVER,Light,Passenger Car
+PORSCHE,Light,Passenger Car
+JAGUAR,Light,Passenger Car
+FIAT,Light,Passenger Car
+GENESIS,Light,Passenger Car
+SAAB,Light,Passenger Car
+ALFA ROMEO,Light,Passenger Car
+GEO,Light,Passenger Car
+WORKHORSE,Heavy,Combination Long-haul Truck
+AMERICAN LAFRANCE,Heavy,Transit Bus
+NORTH AMERICAN BUS INDUSTRIES,Heavy,Transit Bus
+PETERBILT,Heavy,Combination Long-haul Truck
+RAM,Heavy,Single Unit Short-haul Truck
+MOTOR COACH INDUSTRIES,Heavy,Transit Bus
+EL DORADO,Heavy,Motor Home
+NEW FLYER,Heavy,Transit Bus
+KENWORTH,Heavy,Combination Long-haul Truck
+GILLIG,Heavy,Transit Bus
+BLUE BIRD,Heavy,Transit Bus
+AUTOCAR,Heavy,Combination Short-haul Truck
+PIERCE,Heavy,Refuse Truck
+PROTERRA,Heavy,Transit Bus
+IC BUS,Heavy,Transit Bus
+FWD,Heavy,Combination Short-haul Truck
+NEOPLAN,Heavy,Transit Bus
+VOLVO,Heavy,Combination Long-haul Truck
+OSHKOSH,Heavy,Refuse Truck
+ORION,Heavy,Transit Bus
+SEAGRAVE,Heavy,Refuse Truck
+STERLING,Heavy,Combination Short-haul Truck
+FLXIBLE TRANSIT COACHES,Heavy,Transit Bus
+MACK,Heavy,Combination Long-haul Truck
+TMC,Heavy,Combination Short-haul Truck
+WHITE/GMC,Heavy,Single Unit Long-haul Truck
+KALMAR,Heavy,Refuse Truck
+PREVOST,Heavy,Transit Bus
+MASERATI,Light,Passenger Car
+BENTLEY,Light,Passenger Car
+ROLLS-ROYCE,Light,Passenger Car
+FERRARI,Light,Passenger Car
+ARBOC,Heavy,Transit Bus
+POLESTAR,Light,Passenger Car
+KOVATCH MOBLIE EQUIPMENT CORP.,Heavy,Transit Bus
+RIVIAN,Light,Passenger Truck
+THOMAS BUS,Heavy,Other Buses
+ASTON MARTIN,Light,Passenger Car
+IC BUS LLC,Heavy,Transit Bus
+DODGE,Heavy,Single Unit Short-haul Truck
+KOVATCH,Heavy,Refuse Truck
+SMART,Light,Passenger Car
+LAMBORGHINI,Light,Passenger Car
+MITSUBISHI,Heavy,Combination Short-haul Truck
+MERCEDES-BENZ,Heavy,Combination Long-haul Truck
+GREENPOWER MOTOR,Heavy,Transit Bus
+CRANE CARRIER,Heavy,Combination Short-haul Truck
+BYD COACH AND BUS,Heavy,Transit Bus
+ALEXANDER DENNIS,Heavy,Transit Bus
+ROADMASTER,Heavy,Motor Home
+CATERPILLAR,Heavy,Combination Long-haul Truck
+ORANGE EV,Heavy,Refuse Truck
+VPG,Light,Passenger Car
+AM GENERAL,Light,Light Commertial Truck
+WESTERN STAR,Heavy,Combination Long-haul Truck
+NORTH AMERICAN,Heavy,Combination Long-haul Truck
+SPARTAN,Heavy,Refuse Truck
+MOTOR COACH IND,Heavy,Transit Bus
+EMERGENCY ONE,Heavy,Transit Bus
+LUCID,Light,Passenger Car
+CAPACITY,Heavy,Combination Long-haul Truck
+TICO,Heavy,Transit Bus
+BLUEBIRD,Heavy,Transit Bus
+VAN HOOL,Heavy,Transit Bus
+MAN TRUCK AND BUS CORPORATION,Heavy,Combination Long-haul Truck
+CRUISE,Light,Passenger Car
+TROLLEY,Heavy,Transit Bus
+LODAL,Heavy,Refuse Truck
+HME,Heavy,Refuse Truck
+ALLIANZ,Heavy,Combination Long-haul Truck
+GLOBAL ENVIRONMENTAL,Heavy,Refuse Truck
+XOS,Heavy,Transit Bus
+BRIGHTDROP,Heavy,Transit Bus
+LOTUS,Light,Passenger Car
+AM GENERAL,Heavy,Combination Short-haul Truck
+COUNTRY COACH,Heavy,Motor Home
